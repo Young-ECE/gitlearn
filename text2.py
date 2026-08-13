@@ -1,1 +1,0 @@
-print("text2.py")
